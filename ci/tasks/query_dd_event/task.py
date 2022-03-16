@@ -3,4 +3,5 @@
 var1 = "replace"
 var2 = "oldyear"
 print(var1)
+print(var2)
 
